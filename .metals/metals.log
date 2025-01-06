@@ -323,3 +323,7 @@ ADVERTENCIA: Unmatched cancel notification for request id 9
 ene 06, 2025 9:19:34 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 ADVERTENCIA: Unmatched cancel notification for request id 10
 2025.01.06 09:19:33 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scrapping_Chile/simple_scrapping_scala/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:22:33 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scrapping_Chile/simple_scrapping_scala/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:24:25 INFO  Shutting down server
+2025.01.06 09:24:25 INFO  shutting down Metals
+2025.01.06 09:24:25 INFO  Exiting server
