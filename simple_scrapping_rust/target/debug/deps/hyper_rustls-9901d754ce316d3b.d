@@ -1,0 +1,9 @@
+/Users/sightes/Documents/GITHUB/2025_Scrapping_Chile/simple_scrapping_rust/target/debug/deps/libhyper_rustls-9901d754ce316d3b.rmeta: /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/Users/sightes/Documents/GITHUB/2025_Scrapping_Chile/simple_scrapping_rust/target/debug/deps/hyper_rustls-9901d754ce316d3b.d: /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs /Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs
+
+/Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/lib.rs:
+/Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/config.rs:
+/Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector.rs:
+/Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/connector/builder.rs:
+/Users/sightes/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hyper-rustls-0.24.2/src/stream.rs:
